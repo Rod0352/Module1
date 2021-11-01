@@ -69,12 +69,6 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -91,11 +85,15 @@ p {
     color: #ffffff;
 }
 
-
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .content div {
